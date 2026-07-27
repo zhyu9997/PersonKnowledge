@@ -1,0 +1,23 @@
+# === Obsidian 本地状态（每个人不同，不应提交）===
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace.json.bak
+.obsidian/cache
+.obsidian/plugins/*/data.json
+
+# === Obsidian 回收站 ===
+.trash/
+
+# === 操作系统 ===
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# === 临时/备份文件 ===
+*.tmp
+*.bak
+*~
